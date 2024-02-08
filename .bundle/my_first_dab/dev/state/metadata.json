@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "config": {
+    "bundle": {
+      "git": {
+        "branch": "main",
+        "origin_url": "https://github.com/sanjeevtyagi170/Python-Codes",
+        "commit": "dec56804a5b7cd4d22715c4fcfa94ab9a9d3071b",
+        "bundle_root_path": "my_first_dab"
+      }
+    },
+    "workspace": {
+      "file_path": "/Repos/sureshtyagil501@gmail.com/devdbrassetbundles/.bundle/my_first_dab/dev/files"
+    },
+    "resources": {
+      "jobs": {
+        "my_first_dab_job": {
+          "id": "581222730803907",
+          "relative_path": "resources/batch_job1.yml"
+        },
+        "my_second_dab_job": {
+          "id": "1052034757026320",
+          "relative_path": "resources/batch_job2.yml"
+        }
+      }
+    }
+  }
+}
